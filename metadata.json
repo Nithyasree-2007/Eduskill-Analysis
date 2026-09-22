@@ -1,0 +1,6 @@
+{
+  "name": "Student Skill Gap Analysis & Certification Recommendation System",
+  "description": "Big Data Analytics and Machine Learning solution to map student skills against industry requirements from 1.3M LinkedIn jobs, predict skill readiness, and recommend certifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
